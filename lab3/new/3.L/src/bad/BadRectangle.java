@@ -1,6 +1,6 @@
 package bad;
 
-public class BadRectangle {
+public class BadRectangle implements AreaCalculator{
 
     private int height;
     private int width;
