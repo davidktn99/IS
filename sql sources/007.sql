@@ -1,5 +1,0 @@
-#Tutorial 007
-
-SHOW ENGINES;
-CREATE TABLE test (id INT) ENGINE=MYISAM;
-DROP TABLE test;
