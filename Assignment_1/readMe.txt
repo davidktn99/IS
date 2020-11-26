@@ -7,7 +7,7 @@ corespunzatoare (ex. databaseLayer contine doar clasele ce tin de Bootstrap si a
 presentationLayer tot ce tine de interfata, etc.. )
 • Prin 95% ma refer, ca am implementat in totalitate toate cerintele, in afara de "Generarea rapoartelor pentru o perioada 
 particulara". Toate inputurile din GUI sunt validate si testate. 
-• Am facut testarea prin JUnit 4 pentru AuthentificationService, AccountRepo si ClientRepo
+• Am facut testarea prin JUnit 4 pentru AuthenticationService, AccountRepository si ClientRepository
 
 • Pentru Login: 2 conturi predefinite
 
