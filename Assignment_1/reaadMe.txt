@@ -1,0 +1,14 @@
+Katona David - 30234
+
+• Proiectul a fost implementat in proportie de 95%. Am incercat sa respect principiile SOLID pe cat posibil, iar
+codul a fost formatat si simplificat pe parcurs. 
+• Am implementat proiectul conform Layers architectural pattern, avand in total 4 pachete, cu subpachetele 
+corespunzatoare (ex. databaseLayer contine doar clasele ce tin de Bootstrap si accesarea bazei de date, 
+presentationLayer tot ce tine de interfata, etc.. )
+• Prin 95% ma refer, ca am implementat in totalitate toate cerintele, in afara de "Generarea rapoartelor pentru o perioada 
+particulara". Toate inputurile din GUI sunt validate si testate. 
+
+• Pentru Login: 2 conturi predefinite
+
+1) Username: admin, Password: 1337admin!
+2) Username: emp,   Password: 1234emp! 
